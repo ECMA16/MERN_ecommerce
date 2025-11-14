@@ -40,3 +40,9 @@ export const EMAIL_PROVIDER = {
   Google: 'Google',
   Facebook: 'Facebook'
 };
+
+export const AWS_Credential = {
+  Email: 'Email',
+  Username: 'zootopia',
+  Password: '******'
+};
